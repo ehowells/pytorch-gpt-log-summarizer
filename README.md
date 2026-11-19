@@ -2,7 +2,7 @@
 
 A custom PyTorch GPT-style autoregressive transformer that translates structured computer vision hazard-detection logs into clear, human-readable inspection summaries for facility surveyors.
 
-Developed as a computational linguistics research project for **LING 3000** at the University of Connecticut, bridging the NLP reporting layer of a Computer Science Senior Design Capstone sponsored by **Hartford Steam Boiler**.
+Developed as a computational linguistics final project for **LING 3000** at the University of Connecticut, designed in tandem with a Computer Science Senior Design Capstone sponsored by **Hartford Steam Boiler**.
 
 ---
 
